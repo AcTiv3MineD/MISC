@@ -1,3 +1,5 @@
+//DESARROLLADO POR: CESAR AUGUSTO MENDEZ VARGAS - 20130262 - ISC
+
 #define _XOPEN_SOURCE //Se necesita para que sys/stat declare algunas constantes necesarias
 #include <unistd.h>
 #include <stdio.h>
